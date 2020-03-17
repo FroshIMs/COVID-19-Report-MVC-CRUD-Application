@@ -14,7 +14,7 @@
   <body>
     <nav class="uk-navbar-container uk-margin" uk-navbar>
         <div class="uk-navbar-left">
-          <a class="uk-navbar-item uk-logo" href="/covid-19/home">COVID-19 Report Centre</a>
+          <a class="uk-navbar-item uk-logo" href="/covid-19/">COVID-19 Report Centre</a>
         </div>
         <div class="uk-navbar-right">
             <div>

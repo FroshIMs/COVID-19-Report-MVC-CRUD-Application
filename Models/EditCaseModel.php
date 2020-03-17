@@ -36,6 +36,7 @@
         ':author' => $case_author,
         ':id' => $id
                           ));
+        header('Location: /covid-19/case.php?id='.$id);
     }
 
   }

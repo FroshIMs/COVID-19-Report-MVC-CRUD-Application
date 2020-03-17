@@ -24,7 +24,7 @@
             ':description' => $case_body,
             ':author' => $case_author
                               ));
-
+            header('Location: /covid-19/');
         }
       }
 

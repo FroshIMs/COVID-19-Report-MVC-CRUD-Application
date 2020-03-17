@@ -9,7 +9,7 @@
 
 <div class="uk-container uk-margin-top">
   <a href='javascript:self.history.back();' class="uk-button uk-button-secondary uk-align-right">Back</a>
-  <h1 class="uk-heading">COVID-19 Case Detail</h1>
+  <h1 class="uk-heading">COVID-19 Case Detail - <?php echo $case['case_title']; ?></h1>
   <ul class="uk-list uk-list-striped">
     <li><b>Victim's Name:</b> <?php echo $case['victim_name']; ?></li>
     <li><b>Victim's Age:</b> <?php echo $case['victim_age']; ?></li>
